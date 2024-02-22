@@ -3,21 +3,21 @@ h1 {
     background-color: green;
     border: 5px solid rgb(6, 70, 6);
     border-radius: 10px;
- 
  }
  
  img{
     border-style: double;
     border-radius: 10px;
+    height: 450px;
  }
  
- h3{
+ h2{
     background-color: orange;
     border: 5px solid rgb(150, 100, 8);
     border-radius: 10px;
- 
  }
- h2{
+
+ a{
     color: blue;
- 
+    font-size: 30px;
  }
